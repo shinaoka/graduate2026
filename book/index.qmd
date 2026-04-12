@@ -1,0 +1,22 @@
+---
+title: "Home"
+---
+
+This website hosts course materials for **Lecture for graduate students 2026**.
+
+The site is currently being prepared. Lecture notes, announcements, and additional pages will be added here as the course develops.
+
+# Information
+
+- Course title: Lecture for graduate students 2026
+- Academic year: 2026
+- Status: Under construction
+
+# Notes
+
+- Check this page regularly for updates.
+- New sections will appear in the sidebar once materials are published.
+
+# License
+
+Except where otherwise noted, the materials on this site are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
