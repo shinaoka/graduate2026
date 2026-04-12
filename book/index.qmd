@@ -20,6 +20,40 @@ title: "ガイダンス"
 - 文献調査, 発想整理, コーディング, データ解析, 文章作成での活用
 - 出力の検証, 再現性, 著作権, 機密情報などの注意点
 
+# 2026年4月時点の主要ツール
+
+以下は, 2026年4月13日時点で確認した一次情報に基づく整理です.
+
+| ツール | 価格 | 向いていること | 補足 |
+| --- | --- | --- | --- |
+| ChatGPT Plus + Codex | ChatGPT Plus は $20/月 | 壁打ち, 要約, 調査, コード相談, 自律的なコーディング作業の導入 | Codex は ChatGPT Plus に含まれる. ただし API 利用料金は別 |
+| Claude Pro + Claude Code | Claude Pro は $20/月 | 長文読解, 対話, ターミナルでの自律作業 | 正式には `Claude Code Pro` ではなく, `Claude Pro` と `Claude Code` |
+| VS Code + GitHub Copilot | VS Code は無料, Copilot Pro は $10/月 | 論文執筆, ノート整理, 日常的なコード編集 | 認証済み学生は Copilot Student, 教員は Copilot Pro の無償対象がある |
+| Cursor Pro | $20/月 | AI 前提のエディターで執筆と実装をまとめて進める | 対象学生には Pro の無償プログラムが案内されている |
+
+# 最初のおすすめ構成
+
+幅広い受講者が最初に触る構成としては, **ChatGPT Plus + VS Code + GitHub Copilot** がよさそうです.
+
+- ChatGPT は一般的な対話, 調査, 要約, アイデア出しに使いやすい
+- VS Code は無料で, 論文やコードを同じエディターで扱いやすい
+- GitHub Copilot は VS Code 上で自然に使え, 学生や教員では無償で使える場合がある
+
+一方で, まとまった自律作業をさせたいときには `Codex CLI` や `Claude Code` が便利です. これらはターミナルや IDE 上でファイル編集, コマンド実行, テスト実行まで扱える agent 型ツールとして位置づけられます.
+
+# 一次情報
+
+- [OpenAI Help: What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-chatgpt-plus-.eps)
+- [OpenAI Help: Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan)
+- [Anthropic Pricing](https://www.anthropic.com/pricing)
+- [Anthropic Help: How much does Claude Pro cost?](https://support.anthropic.com/en/articles/8325610-how-much-does-claude-pro-cost)
+- [Anthropic Docs: Claude Code overview](https://docs.anthropic.com/en/docs/claude-code/overview)
+- [VS Code FAQ](https://code.visualstudio.com/docs/supporting/faq)
+- [GitHub Copilot plans](https://github.com/features/copilot/plans)
+- [GitHub Education for Teachers](https://github.com/education/teachers)
+- [Cursor Pricing](https://cursor.com/pricing)
+- [Cursor for Students](https://cursor.com/students)
+
 # 参考リンク
 
 - [CompPhysHack 2026](https://qc-hybrid.github.io/CompPhysHack2026/)
