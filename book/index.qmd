@@ -1,22 +1,31 @@
 ---
-title: "Home"
+title: "ガイダンス"
 ---
 
-This website hosts course materials for **Lecture for graduate students 2026**.
+このサイトでは, **Lecture for graduate students 2026** の講義資料を公開します.
 
-The site is currently being prepared. Lecture notes, announcements, and additional pages will be added here as the course develops.
+この講義では, 生成 AI を研究の現場でどう使うかを扱う予定です.
 
-# Information
+受講者は学部生, 大学院生, 教員まで幅広いため, 初回はガイダンスとし, 参加者の背景や関心を見ながら今後の内容を調整します.
 
-- Course title: Lecture for graduate students 2026
-- Academic year: 2026
-- Status: Under construction
+# 今日の位置づけ
 
-# Notes
+- 今日はガイダンス
+- 受講者の経験や関心を確認しながら, 今後の進め方を決める
+- 詳しい講義資料や演習ページは順次追加する
 
-- Check this page regularly for updates.
-- New sections will appear in the sidebar once materials are published.
+# 扱う予定の内容
 
-# License
+- 生成 AI を研究で使うための基本的な考え方
+- 文献調査, 発想整理, コーディング, データ解析, 文章作成での活用
+- 出力の検証, 再現性, 著作権, 機密情報などの注意点
 
-Except where otherwise noted, the materials on this site are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+# 参考リンク
+
+- [CompPhysHack 2026](https://qc-hybrid.github.io/CompPhysHack2026/)
+
+`CompPhysHack 2026` は, AI ツールをコーディングやデータ解析のワークフローに統合する実践的なイベントであり, VS Code Copilot, Cursor, Claude Code, Codex などを使った講演資料やハンズオン資料へのリンクがまとまっています. この講義の方向性をつかむための参考資料として有用です.
+
+# ライセンス
+
+特記がない限り, このサイトの講義資料は [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) で公開します.

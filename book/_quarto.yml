@@ -14,7 +14,7 @@ book:
 format:
   html:
     theme: cosmo
-    lang: en
+    lang: ja
     toc: true
     code-copy: true
     code-overflow: wrap
