@@ -27,64 +27,83 @@ title: "ガイダンス"
 ## 対話型
 
 - `ChatGPT Plus`
-- 壁打ち, 要約, 調査, コード相談の入口として使いやすい
-- 日本では JPY のローカル料金がサポートされる
-- `Codex` は ChatGPT Plus に含まれるが, API 利用料金は別
+  - 壁打ち, 要約, 調査, コード相談の入口として使いやすい
+  - 日本では JPY のローカル料金がサポートされる
+  - `Codex` は ChatGPT Plus に含まれるが, API 利用料金は別
 
 - `Claude Pro`
-- 長文読解や対話に向く
-- 価格ページ上では月額 `$20` 表記
-- 日本では `2026年4月1日` 以降 `JCT 10%` が加算される
+  - 長文読解や対話に向く
+  - 価格ページ上では月額 `$20` 表記
+  - 日本では `2026年4月1日` 以降 `JCT 10%` が加算される
 
 ## エディタ型
 
 - `VS Code + GitHub Copilot`
-- 論文執筆, ノート整理, 日常的なコード編集に向く
-- `VS Code` 自体は無料, `Copilot Pro` は `$10/月`
-- 認証済み学生は `Copilot Student`, 教員は `Copilot Pro` の無償対象がある
+  - 論文執筆, ノート整理, 日常的なコード編集に向く
+  - `VS Code` 自体は無料, `Copilot Pro` は `$10/月`
+  - 認証済み学生は `Copilot Student`, 教員は `Copilot Pro` の無償対象がある
 
 - `Cursor Pro`
-- AI 前提のエディターで, 執筆と実装をまとめて進めやすい
-- 価格は `$20/月`
-- `Cursor for Students` は有効な `.edu` メールが必須のため, 日本の大学生は通常利用できない
+  - AI 前提のエディターで, 執筆と実装をまとめて進めやすい
+  - 価格は `$20/月`
+  - `Cursor for Students` は有効な `.edu` メールが必須のため, 日本の大学生は通常利用できない
 
 ## 自律作業型
 
-- `Codex CLI`
-- `Claude Code`
-- `GitHub Copilot CLI`
-- これらはターミナルや IDE 上で, ファイル編集, コマンド実行, テスト実行まで含む agent 型ツールとして使える
-- `GitHub Copilot CLI` は有効な Copilot サブスクリプションで利用可能
+- 代表例
+  - `Codex CLI`
+  - `Claude Code`
+  - `GitHub Copilot CLI`
+
+- 特徴
+  - ターミナルや IDE 上で, ファイル編集, コマンド実行, テスト実行まで含む agent 型ツールとして使える
+  - `GitHub Copilot CLI` は有効な Copilot サブスクリプションで利用可能
 
 # 最初のおすすめ構成
 
 幅広い受講者が最初に触る構成としては, **ChatGPT Plus + VS Code + GitHub Copilot** がよさそうです.
 
-- ChatGPT は一般的な対話, 調査, 要約, アイデア出しに使いやすい
-- VS Code は無料で, 論文やコードを同じエディターで扱いやすい
-- GitHub Copilot は VS Code 上で自然に使え, CLI も含めて導入しやすい
-- 学生や教員では GitHub Education により無償で使える場合がある
-- まずは対話型とエディタ型に慣れてから, 必要に応じて自律作業型へ進むのが自然
+- おすすめ理由
+  - ChatGPT は一般的な対話, 調査, 要約, アイデア出しに使いやすい
+  - VS Code は無料で, 論文やコードを同じエディターで扱いやすい
+  - GitHub Copilot は VS Code 上で自然に使え, CLI も含めて導入しやすい
+  - 学生や教員では GitHub Education により無償で使える場合がある
+
+- 進め方
+  - まずは対話型とエディタ型に慣れる
+  - 必要に応じて自律作業型へ進む
 
 # 使い分けの目安
 
-- 雑に相談したいときは `対話型`
-- 論文やノートを書きながら使いたいときは `エディタ型`
-- まとまった実装や修正を任せたいときは `自律作業型`
+- `対話型`
+  - 雑に相談したいとき
+
+- `エディタ型`
+  - 論文やノートを書きながら使いたいとき
+
+- `自律作業型`
+  - まとまった実装や修正を任せたいとき
 
 # 一次情報
 
-- [OpenAI Help: What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-chatgpt-plus-.eps)
-- [OpenAI Help: Multi-currency billing](https://help.openai.com/en/articles/10421635-multicurrency-billing)
-- [OpenAI Help: Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan)
-- [Anthropic Pricing](https://www.anthropic.com/pricing)
-- [Anthropic Docs: Claude Code overview](https://docs.anthropic.com/en/docs/claude-code/overview)
-- [VS Code FAQ](https://code.visualstudio.com/docs/supporting/faq)
-- [GitHub Copilot plans](https://github.com/features/copilot/plans)
-- [GitHub Docs: About GitHub Copilot CLI](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-copilot-cli)
-- [GitHub Education for Teachers](https://github.com/education/teachers)
-- [Cursor Pricing](https://cursor.com/pricing)
-- [Cursor for Students](https://cursor.com/students)
+- OpenAI
+  - [OpenAI Help: What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-chatgpt-plus-.eps)
+  - [OpenAI Help: Multi-currency billing](https://help.openai.com/en/articles/10421635-multicurrency-billing)
+  - [OpenAI Help: Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan)
+
+- Anthropic
+  - [Anthropic Pricing](https://www.anthropic.com/pricing)
+  - [Anthropic Docs: Claude Code overview](https://docs.anthropic.com/en/docs/claude-code/overview)
+
+- GitHub / VS Code
+  - [VS Code FAQ](https://code.visualstudio.com/docs/supporting/faq)
+  - [GitHub Copilot plans](https://github.com/features/copilot/plans)
+  - [GitHub Docs: About GitHub Copilot CLI](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/about-copilot-cli)
+  - [GitHub Education for Teachers](https://github.com/education/teachers)
+
+- Cursor
+  - [Cursor Pricing](https://cursor.com/pricing)
+  - [Cursor for Students](https://cursor.com/students)
 
 # 参考リンク
 
